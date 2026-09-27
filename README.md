@@ -108,8 +108,16 @@ The combined count of Low, High, and Abnormal results was **2,683**.
 Vital-sign data was summarized by test to review the distribution and coverage of recorded measurements.
 
 ## Power BI Dashboard
+### Dashboard Preview
 
-The final dashboard contains three pages.
+#### Clinical Overview
+![Clinical Overview](clinical-overview.png)
+
+#### Subject Demographics
+![Subject Demographics](subject-demographics.png)
+
+#### Data Quality & Clinical Insights
+![Data Quality & Clinical Insights](data-quality-clinical-insights.png)
 
 ### Page 1 — Clinical Trial Data Management Overview
 
