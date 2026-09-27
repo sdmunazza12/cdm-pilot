@@ -111,13 +111,13 @@ Vital-sign data was summarized by test to review the distribution and coverage o
 ### Dashboard Preview
 
 #### Clinical Overview
-![Clinical Overview](clinical-overview.png)
+![Clinical Overview](clinical-overview.png.png)
 
 #### Subject Demographics
-![Subject Demographics](subject-demographics.png)
+![Subject Demographics](subject-demographics.png.png)
 
 #### Data Quality & Clinical Insights
-![Data Quality & Clinical Insights](data-quality-clinical-insights.png)
+![Data Quality & Clinical Insights](data-quality-clinical-insights.png.png)
 
 ### Page 1 — Clinical Trial Data Management Overview
 
