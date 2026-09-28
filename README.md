@@ -1,6 +1,6 @@
-# Clinical Trial Data Management & Quality Dashboard
+# CDM Pilot - Clinical Data Management & Quality Analytics Dashboard
 
-A self-directed clinical data management portfolio project using simulated clinical-trial datasets to practice data cleaning, SDTM-style domain review, quality checks, summary analysis, and Power BI dashboard development.
+CDM Pilot, a self-directed clinical data management portfolio project using simulated clinical-trial datasets to practice data cleaning, SDTM-style domain review, quality checks, summary analysis, and Power BI dashboard development.
 
 ## Project Objective
 
