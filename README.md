@@ -191,6 +191,6 @@ It demonstrates clinical data-management concepts and workflow practice. It is n
 
 **Sayed Munazza Saniya**
 
-M.Sc. Biotechnology | Clinical Data Management & Pharmacovigilance Enthusiast
+M.Sc. Biotechnology | Clinical Data Management and Drug Safety Professional
 
-[LinkedIn](linkedin.com/in/sdmunazza1242/) · [GitHub]([YOUR_GITHUB_URL](https://github.com/sdmunazza12/clinical-trial-cdm-quality-dashboard/edit/main/README.md))
+[LinkedIn](linkedin.com/in/sdmunazza1242/) · [GitHub]((https://github.com/sdmunazza12/clinical-trial-cdm-quality-dashboard/edit/main/README.md))
