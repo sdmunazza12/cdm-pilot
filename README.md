@@ -187,6 +187,10 @@ This is a **self-directed portfolio project using simulated/educational clinical
 
 It demonstrates clinical data-management concepts and workflow practice. It is not a production clinical trial database and does not represent validated clinical-trial, regulatory-submission, or patient-level decision-making work.
 
+## Dataset Source & Attribution
+
+This project uses data from the CDISC SDTM/ADaM Pilot Project, specifically the CDISC Pilot 01 (CDISCPILOT01) study dataset. The dataset was used for self-directed educational practice in clinical data management, data quality review and visualization.
+
 ## Author
 
 **Sayed Munazza Saniya**
